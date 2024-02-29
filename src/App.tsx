@@ -1,10 +1,10 @@
-import PropsRestriction from "./PropsRestriction/PropsRestriction";
+import TemplateLiteralAndExclude from "./TemplateListeralsAndExclude/TemplateLiteralAndExclude";
 
 const App = ()=>{
   return (
     <div>
       <h1>Practice React Typescript</h1>
-     <PropsRestriction />
+     <TemplateLiteralAndExclude />
     </div>
   )
 }

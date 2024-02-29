@@ -1,10 +1,10 @@
-import Mutation from "./useRef Hook/Mutation";
+import PropsRestriction from "./PropsRestriction/PropsRestriction";
 
 const App = ()=>{
   return (
     <div>
-      <h1>Practice react Typescript</h1>
-      <Mutation />
+      <h1>Practice React Typescript</h1>
+     <PropsRestriction />
     </div>
   )
 }

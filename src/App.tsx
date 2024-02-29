@@ -1,10 +1,10 @@
-import TemplateLiteralAndExclude from "./TemplateListeralsAndExclude/TemplateLiteralAndExclude";
+import WrappingHtmlElement from "./WrappingHtmlElements/WrappingHtmlElement";
 
 const App = ()=>{
   return (
     <div>
       <h1>Practice React Typescript</h1>
-     <TemplateLiteralAndExclude />
+     <WrappingHtmlElement />
     </div>
   )
 }

@@ -1,4 +1,4 @@
-import Component1 from "./COmponent1"
+import Component1 from "./Component1.tsx"
 
 const Component2 = ({}:React.ComponentProps<typeof Component1>) => {
   return (
